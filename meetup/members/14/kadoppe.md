@@ -3,7 +3,6 @@
 - Twitter -> [@kadoppe](https://twitter.com/kadoppe)
 - GitHub -> [kadoppe](https://github.com/kadoppe)
 
-Personal-tags: security, Infra, AWS, AWS SDK for Ruby, Amazon Linux, openSUSE Linux, TDD, Python, Networking, piyopiyo.rb
 Personal-tags: Ruby on Rails, JavaScript, Java
 
 # 自己紹介
