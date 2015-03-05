@@ -1,4 +1,4 @@
-# @necojacakrc
+# 雀巽（じゃくそん）
 
 - Twitter: [@necojackarc](https://twitter.com/necojackarc)
 - Qiita: [@necojackarc](http://qiita.com/necojackarc)
