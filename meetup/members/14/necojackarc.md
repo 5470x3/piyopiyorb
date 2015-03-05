@@ -1,7 +1,7 @@
 # @necojacakrc
 
 - Twitter: [@necojackarc](https://twitter.com/necojackarc)
-- Qiita: [@necojacakrc](http://qiita.com/necojackarc)
+- Qiita: [@necojackarc](http://qiita.com/necojackarc)
 - Blog: [雀巽の日記帳](http://necojackarc.hatenablog.com/)
 
 # 自己紹介
